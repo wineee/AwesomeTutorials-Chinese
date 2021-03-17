@@ -30,7 +30,7 @@
 - [emacs-document](https://github.com/lujun9972/emacs-document)
 - [铁指寸进，零秒精通 Emacs-Lisp](https://github.com/AbstProcDo/Master-Emacs-Lisp-with-Solid-Procedures)
 - [Master Emacs in 21 Days](http://book.emacs-china.org/)
-- [Milkypostman’s Emacs Lisp Package Archive](https://elpa.emacs-china.org/)
+- [Milkypostman’s Emacs Lisp Package Archive](https://melpa.org/)
 
 ## VsCode
 - [VS Code 插件开发文档](https://github.com/Liiked/VS-Code-Extension-Doc-ZH)
