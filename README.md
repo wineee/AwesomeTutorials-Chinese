@@ -38,6 +38,7 @@
 - [magic-in-ten-mins](https://github.com/niltok/magic-in-ten-mins)
 
 ## 综合
+- [计算机教育中缺失的一课](https://missing-semester-cn.github.io/)
 - [【编程随想】的电子书清单](https://github.com/programthink/books)
 - [CS-Notes](https://github.com/CyC2018/CS-Notes)
 - [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
