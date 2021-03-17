@@ -10,6 +10,7 @@
 - [GNU MP 高精度计算库](https://gmplib.org/manual/)
 
 ## Qt
+- [Qt Documentation(官方文档en)](https://doc.qt.io/qt.html#qt5)
 - [QtDocumentCN](https://github.com/QtDocumentCN/QtDocumentCN)
 - [《Qt编程指南》主要是写给Qt开发新手](https://qtguide.ustclug.org/)
 - [c语言中文网的Qt简介](http://c.biancheng.net/view/1792.html)
