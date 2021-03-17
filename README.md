@@ -15,6 +15,7 @@
 - [c语言中文网的Qt简介](http://c.biancheng.net/view/1792.html)
 
 ## Python
+- [白月黑羽教Python](http://www.python3.vip)
 - [Python 开源库及示例代码](https://github.com/programthink/opensource/blob/master/libs/python.wiki)
 
 ## haskell
