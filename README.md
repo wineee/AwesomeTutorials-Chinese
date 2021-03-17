@@ -31,7 +31,7 @@
 
 ## VsCode
 - [VS Code 插件开发文档](https://github.com/Liiked/VS-Code-Extension-Doc-ZH)
-- 
+
 ## vim
 - [vim 使用入门教程](https://www.openvim.com/tutorial.html)
 
