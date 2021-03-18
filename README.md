@@ -47,6 +47,7 @@
 - [Arch Linux 安装使用教程](https://archlinuxstudio.github.io/ArchLinuxTutorial/#/)
 
 ## web
+- [MDN Web Docs](https://developer.mozilla.org/zh-CN/docs/Learn)
 - [前端入门到进阶图文教程](https://github.com/qianguyihao/Web)
 
 ### ctf
