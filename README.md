@@ -22,6 +22,7 @@
 ## haskell
 - [《Real World Haskell》中文](https://github.com/huangz1990/real-world-haskell-cn)
 - [Hackage: The Haskell Package Repository](https://hackage.haskell.org/)
+- [HASKELL 趣學指南](https://learnyouahaskell.mno2.org)
 
 ## algorithm
 - [labuladong 的算法小抄](https://github.com/labuladong/fucking-algorithm)
