@@ -50,8 +50,13 @@
 - [MDN Web Docs](https://developer.mozilla.org/zh-CN/docs/Learn)
 - [前端入门到进阶图文教程](https://github.com/qianguyihao/Web)
 
+### OI/ACM
+
+- [OIWIKI](https://oi-wiki.org)
+
 ### ctf
 - [BugKu 题库](https://ctf.bugku.com)
+- [CTF WIKI](https://wiki.x10sec.org)
 
 ## 科学侧
 - [CSAPP](https://github.com/EugeneLiu/translationCSAPP)
@@ -65,6 +70,7 @@
 - [【编程随想】的电子书清单](https://github.com/programthink/books)
 - [IT_book](https://github.com/XiangLinPro/IT_book)
 - [CS-Notes](https://github.com/CyC2018/CS-Notes)
+- [free-books](https://github.com/ruanyf/free-books)
 - [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
 - [蓝桥云课/实验楼](https://www.lanqiao.cn/)
 
