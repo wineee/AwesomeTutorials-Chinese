@@ -24,6 +24,9 @@
 - [Hackage: The Haskell Package Repository](https://hackage.haskell.org/)
 - [HASKELL 趣學指南](https://learnyouahaskell.mno2.org)
 
+## rust
+- [Rust 程序设计语言 简体中文版](https://kaisery.github.io/trpl-zh-cn/)
+
 ## algorithm
 - [labuladong 的算法小抄](https://github.com/labuladong/fucking-algorithm)
 - [July的《编程之法：面试和算法心得》](https://github.com/julycoding/The-Art-Of-Programming-By-July)
