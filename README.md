@@ -32,6 +32,7 @@
 - [emacs-document](https://github.com/lujun9972/emacs-document)
 - [铁指寸进，零秒精通 Emacs-Lisp](https://github.com/AbstProcDo/Master-Emacs-Lisp-with-Solid-Procedures)
 - [Master Emacs in 21 Days](http://book.emacs-china.org/)
+- [Master Emacs in One Year](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide)
 - [Milkypostman’s Emacs Lisp Package Archive](https://melpa.org/)
 
 ## VsCode
