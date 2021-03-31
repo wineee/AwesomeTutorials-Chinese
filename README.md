@@ -69,6 +69,7 @@
 ## 魔法侧
 - [Learning-SICP](https://github.com/DeathKing/Learning-SICP)
 - [magic-in-ten-mins](https://github.com/niltok/magic-in-ten-mins)
+- [The Little Schemer:递归与函数式的奥妙](https://the-little-schemer.readthedocs.io/zh_CN/latest/preface.html)
 
 ## 综合
 - [计算机教育中缺失的一课](https://missing-semester-cn.github.io/)
