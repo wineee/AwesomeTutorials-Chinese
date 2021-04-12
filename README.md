@@ -9,6 +9,7 @@
 - [cplusplus Reference](https://cplusplus.com/)
 - [GNU MP 高精度计算库](https://gmplib.org/manual/)
 - [subingwen c++11](https://subingwen.cn/cplusplus/)
+- [C++设计模式](https://github.com/liu-jianhao/Cpp-Design-Patterns)
 
 ## Qt
 - [feiyangqingyun](https://github.com/feiyangqingyun)
