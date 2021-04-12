@@ -8,6 +8,7 @@
 - [C++ Template 进阶指南](https://github.com/wuye9036/CppTemplateTutorial)
 - [cplusplus Reference](https://cplusplus.com/)
 - [GNU MP 高精度计算库](https://gmplib.org/manual/)
+- [subingwen c++11](https://subingwen.cn/cplusplus/)
 
 ## Qt
 - [feiyangqingyun](https://github.com/feiyangqingyun)
@@ -80,4 +81,5 @@
 - [free-books](https://github.com/ruanyf/free-books)
 - [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
 - [蓝桥云课/实验楼](https://www.lanqiao.cn/)
+- [huihut interview](https://github.com/huihut/interview#cc)
 
