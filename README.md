@@ -23,6 +23,7 @@
 - [subingwen c++11](https://subingwen.cn/cplusplus/)
 - [C++设计模式](https://github.com/liu-jianhao/Cpp-Design-Patterns)
 - [C++17完全指南](https://github.com/MeouSker77/Cpp17)
+- [Cpp-Concurrency-in-Action-2ed](https://github.com/downdemo/Cpp-Concurrency-in-Action-2ed)
 
 ## Qt
 - [feiyangqingyun](https://github.com/feiyangqingyun)
