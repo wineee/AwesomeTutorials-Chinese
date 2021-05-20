@@ -86,6 +86,7 @@
 
 ## 魔法侧
 - [Learning-SICP](https://github.com/DeathKing/Learning-SICP)
+- [Racket-SICP](https://github.com/zv/SICP-guile)
 - [magic-in-ten-mins](https://github.com/niltok/magic-in-ten-mins)
 - [The Little Schemer:递归与函数式的奥妙](https://the-little-schemer.readthedocs.io/zh_CN/latest/preface.html)
 
