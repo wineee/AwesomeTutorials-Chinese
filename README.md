@@ -1,5 +1,5 @@
 # AwesomeTutorials
-据不科学的统计，教程进了收藏夹99%不会再被点开，所以，我放这了
+据不科学的统计，教程进了收藏夹99%不会再被点开，所以，我放这了(
 
 ## 综合
 - [计算机教育中缺失的一课](https://missing-semester-cn.github.io/)
@@ -12,6 +12,12 @@
 - [huihut interview](https://github.com/huihut/interview#cc)
 - [awesome-cs-books: 超过 200 本经典的计算机书籍分享](https://github.com/imarvinle/awesome-cs-books)
 
+- [awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets)
+- [awesome-cheatsheets en](https://github.com/LeCoupa/awesome-cheatsheets)
+
+## python
+
+- [fucking-awesome-python](https://github.com/trananhkma/fucking-awesome-python)
 
 ## c++
 - [C++ 那些事](https://github.com/Light-City/CPlusPlusThings)
