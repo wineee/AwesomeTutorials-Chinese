@@ -15,13 +15,9 @@
 - [awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets)
 - [awesome-cheatsheets en](https://github.com/LeCoupa/awesome-cheatsheets)
 
-## python
-
-- [fucking-awesome-python](https://github.com/trananhkma/fucking-awesome-python)
-
 ## c++
-- [C++ 那些事](https://github.com/Light-City/CPlusPlusThings)
-- [C/C++ 开源库及示例代码](https://github.com/programthink/opensource/blob/master/libs/cpp.wiki)
+- [***C++ 那些事***](https://github.com/Light-City/CPlusPlusThings)
+- [***C/C++ 开源库及示例代码***](https://github.com/programthink/opensource/blob/master/libs/cpp.wiki)
 - [Modern C++ Tutorial](https://github.com/changkun/modern-cpp-tutorial)
 - [C++ Template 进阶指南](https://github.com/wuye9036/CppTemplateTutorial)
 - [cplusplus Reference](https://cplusplus.com/)
@@ -39,8 +35,14 @@
 - [c语言中文网的Qt简介](http://c.biancheng.net/view/1792.html)
 
 ## Python
+
+- [***fucking-awesome-python***](https://github.com/trananhkma/fucking-awesome-python)
+
 - [白月黑羽教Python](http://www.python3.vip)
 - [Python 开源库及示例代码](https://github.com/programthink/opensource/blob/master/libs/python.wiki)
+- [realpython](https://realpython.com/async-io-python/)
+- [州的先生](https://zmister.com/)
+
 
 ## haskell
 - [《Real World Haskell》中文](https://github.com/huangz1990/real-world-haskell-cn)
