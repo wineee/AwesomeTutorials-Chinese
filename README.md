@@ -52,11 +52,15 @@
 ## rust
 - [Rust 程序设计语言 简体中文版](https://kaisery.github.io/trpl-zh-cn/)
 
+## Flutter
+- [Flutter中文网](https://flutterchina.club)
+
 ## algorithm
 - [labuladong 的算法小抄](https://github.com/labuladong/fucking-algorithm)
 - [July的《编程之法：面试和算法心得》](https://github.com/julycoding/The-Art-Of-Programming-By-July)
 
 ## emacs
+- [***Xah Emacs Site***](http://ergoemacs.org/index.html)
 - [emacs-document](https://github.com/lujun9972/emacs-document)
 - [铁指寸进，零秒精通 Emacs-Lisp](https://github.com/AbstProcDo/Master-Emacs-Lisp-with-Solid-Procedures)
 - [Master Emacs in 21 Days](http://book.emacs-china.org/)
