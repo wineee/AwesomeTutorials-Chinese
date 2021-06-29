@@ -52,6 +52,9 @@
 ## rust
 - [Rust 程序设计语言 简体中文版](https://kaisery.github.io/trpl-zh-cn/)
 
+## elixir
+- [elixirschool](https://elixirschool.com)
+
 ## Flutter
 - [Flutter中文网](https://flutterchina.club)
 
