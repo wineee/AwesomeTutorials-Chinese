@@ -58,6 +58,9 @@
 ## Flutter
 - [Flutter中文网](https://flutterchina.club)
 
+# wayland
+- [wayland-book](https://wayland-book.com/)
+
 ## algorithm
 - [labuladong 的算法小抄](https://github.com/labuladong/fucking-algorithm)
 - [July的《编程之法：面试和算法心得》](https://github.com/julycoding/The-Art-Of-Programming-By-July)
