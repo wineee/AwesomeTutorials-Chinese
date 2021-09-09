@@ -49,6 +49,8 @@
 - [Hackage: The Haskell Package Repository](https://hackage.haskell.org/)
 - [HASKELL 趣學指南](https://learnyouahaskell.mno2.org)
 
+- [Functional Programming by Example](https://github.com/caiorss/Functional-Programming)
+
 ## rust
 - [Rust 程序设计语言 简体中文版](https://kaisery.github.io/trpl-zh-cn/)
 - [Rust工程师枕边资料，经典博客，大牛文章，开源框架，国外项目，论文，视频，书籍，作者口述一览表](https://github.com/0voice/Understanding_in_Rust)
