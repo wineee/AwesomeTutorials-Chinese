@@ -76,6 +76,12 @@
 - [Master Emacs in One Year](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide)
 - [Milkypostman’s Emacs Lisp Package Archive](https://melpa.org/)
 
+## lisp
+- [Lisp之根源](http://daiyuwen.freeshell.org/gb/rol/roots_of_lisp.html)
+- [The Little Schemer:递归与函数式的奥妙](https://the-little-schemer.readthedocs.io/zh_CN/latest/preface.html)
+- [The Little Schemer(备用)](http://uternet.github.io/TLS/)
+- [On Lisp](https://www.kancloud.cn/ituring/on-lisp/56192)
+
 ## VsCode
 - [VS Code 插件开发文档](https://github.com/Liiked/VS-Code-Extension-Doc-ZH)
 
@@ -109,6 +115,5 @@
 - [Learning-SICP](https://github.com/DeathKing/Learning-SICP)
 - [Racket-SICP](https://github.com/zv/SICP-guile)
 - [magic-in-ten-mins](https://github.com/niltok/magic-in-ten-mins)
-- [The Little Schemer:递归与函数式的奥妙](https://the-little-schemer.readthedocs.io/zh_CN/latest/preface.html)
 
 
