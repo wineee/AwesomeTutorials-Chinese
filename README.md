@@ -9,6 +9,7 @@
 - [free-books](https://github.com/ruanyf/free-books)
 - [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
 - [蓝桥云课/实验楼](https://www.lanqiao.cn/)
+- [计算机科学速成课](https://github.com/1c7/Crash-Course-Computer-Science-Chinese)
 - [huihut interview](https://github.com/huihut/interview#cc)
 - [awesome-cs-books: 超过 200 本经典的计算机书籍分享](https://github.com/imarvinle/awesome-cs-books)
 
